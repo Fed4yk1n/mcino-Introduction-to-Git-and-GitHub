@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+<!-- The footer year typo fix was reverted as part of the Git CLI exercise. -->
